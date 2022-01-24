@@ -95,7 +95,7 @@ seq[T] and Option[T] for those types are also supported
             discard await discord.api.sendMessage(msg.channelID, "I can't kill nobody")
 
 Dimscmd does do other stuff like generate a help message automatically when the user sends the message "help" after
-the prefix. This can be overrided by defining a help command yourself
+the prefix. This can be overridden by defining a help command yourself
 
 .. code-block:: nim
 
